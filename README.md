@@ -12,10 +12,9 @@ This is a fine-tuned Transformer-based model for classifying Uzbek-language news
 Training Progress
 Below is a snapshot of the model's training performance during fine-tuning:
 
-Training Metrics
+## Training Metrics
 
 ![photo_2025-05-13_13-56-37](https://github.com/user-attachments/assets/cc47b504-f9f2-440d-b92f-981b55f0f260)
-
 
 
 How to Use
@@ -33,13 +32,7 @@ classifier = pipeline(
 )
 
 
-##  Training Progress
-
-Below is a snapshot of the model's training performance during fine-tuning:
-
-![Training Metrics](training_metrics.jpg)
-
-## 🧪 How to Use
+##  How to Use
 
 You can easily load and use this model with the  Transformers `pipeline`:
 
