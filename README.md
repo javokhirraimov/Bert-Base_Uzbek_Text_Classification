@@ -2,12 +2,12 @@
 
 This is a fine-tuned Transformer-based model for classifying Uzbek-language news articles into one of the following categories:
 
-*Fan va texnika (Science and Technology)
-*Jahon (World)
-*Jamiyat (Public)
-*O'zbekiston (Uzbekistan)
-*Qonunchilik (Law)
-*Sport (Sport)
+- **Fan va texnika** (Science and Technology)
+- **Jahon** (World)
+- **Jamiyat** (Public)
+- **O'zbekiston** (Uzbekistan)
+- **Qonunchilik** (Law)
+- **Sport**  (Sport)
 
 Training Progress
 Below is a snapshot of the model's training performance during fine-tuning:
